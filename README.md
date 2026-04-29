@@ -33,7 +33,7 @@ Aplicación web de gestión económica personal/empresarial desarrollada en PHP 
 
 ```bash
 # Clonar el repositorio
-[git clone https://github.com/tu-usuario/involtrak.git](https://github.com/Sri7ach1/involtrak/)
+git clone https://github.com/Sri7ach1/involtrak/
 cd involtrak
 
 # Ejecutar el instalador (requiere root)
@@ -49,7 +49,7 @@ El instalador se encarga de: instalar dependencias del sistema, crear la base de
 **1. Clonar y configurar el entorno:**
 
 ```bash
-git clone https://github.com/tu-usuario/involtrak.git
+git clone https://github.com/Sri7ach1/involtrak.git
 cd involtrak
 cp .env.example .env
 ```
